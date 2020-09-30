@@ -1,4 +1,4 @@
-# Mouse Cursor Control Using Facial Movements
+# Mouse Cursor Control
 
 ## Code Requirements
 * Numpy - 1.13.3
